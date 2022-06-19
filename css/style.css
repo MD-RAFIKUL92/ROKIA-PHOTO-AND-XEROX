@@ -322,6 +322,10 @@ body{
         margin:0 auto;
         font-family: Georgia, 'Times New Roman', Times, serif;
     }
+    #navbarScroll ul li a{
+        color: white;
+        display: contents;
+    }
     .content{
         display: flex;
         flex-wrap: wrap;
